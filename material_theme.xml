@@ -1,6 +1,5 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="1.4.1" />
-    <option name="defaultBackground" value="" />
+    <option name="version" value="1.4.2.2" />
   </component>
 </application>
