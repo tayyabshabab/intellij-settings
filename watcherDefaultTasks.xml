@@ -1,6 +1,6 @@
 <application>
   <component name="ApplicationTasksOptions">
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="--no-cache --update $FileName$:$FileNameWithoutExtension$.css" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
@@ -13,7 +13,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="" />
+      <option name="program" value="$USER_HOME$/.rvm/gems/ruby-2.4.1/bin/scss" />
       <option name="runOnExternalChanges" value="true" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
